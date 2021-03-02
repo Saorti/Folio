@@ -969,6 +969,12 @@
 	font-size: 15%;
 }
 
+.font{
+	width: 20%;
+	margin: 23%;
+
+}
+
 @media (max-width: 800px){
  
 	.container2{
@@ -989,6 +995,11 @@
 		font-size: 100%;
 	}
 
+	.font{
+		width: 60%;
+		margin-top: 130%;
+		
+	}
 	
 }
 
